@@ -1,0 +1,280 @@
+{
+  "project_info": {
+    "project_number": "689246576032",
+    "firebase_url": "https://finalfooddelivery-default-rtdb.firebaseio.com",
+    "project_id": "finalfooddelivery",
+    "storage_bucket": "finalfooddelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246576032:android:26bf27c05544f0d37dd8c5",
+        "android_client_info": {
+          "package_name": "com.example.citysandwhichposapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pn2pkdzBKnLlqAGlQEsgMv5Q-_5rb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246576032:android:f0ce78f55679e8af7dd8c5",
+        "android_client_info": {
+          "package_name": "com.example.cityshoporders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pn2pkdzBKnLlqAGlQEsgMv5Q-_5rb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246576032:android:a7a500df572ea10f7dd8c5",
+        "android_client_info": {
+          "package_name": "com.example.cityshopordersresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pn2pkdzBKnLlqAGlQEsgMv5Q-_5rb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246576032:android:ee605f7907a65cfa7dd8c5",
+        "android_client_info": {
+          "package_name": "com.example.materialdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246576032-7un79l1uouqtbgjklrajk8vp740v90ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.materialdesign",
+            "certificate_hash": "c1a8579c55994a14688660b01546d432320adc5e"
+          }
+        },
+        {
+          "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pn2pkdzBKnLlqAGlQEsgMv5Q-_5rb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246576032:android:d54cb1495a77d3bd7dd8c5",
+        "android_client_info": {
+          "package_name": "com.example.nestedrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pn2pkdzBKnLlqAGlQEsgMv5Q-_5rb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246576032:android:82854a389f9cc2e27dd8c5",
+        "android_client_info": {
+          "package_name": "com.example.otpverificationrohitnehara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pn2pkdzBKnLlqAGlQEsgMv5Q-_5rb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246576032:android:2c0371adc27839c57dd8c5",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pn2pkdzBKnLlqAGlQEsgMv5Q-_5rb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246576032:android:505a355bd0ab58657dd8c5",
+        "android_client_info": {
+          "package_name": "com.example.restourtantside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pn2pkdzBKnLlqAGlQEsgMv5Q-_5rb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246576032:android:15d42f465edb4dda7dd8c5",
+        "android_client_info": {
+          "package_name": "me.obydul.firebasephoneverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pn2pkdzBKnLlqAGlQEsgMv5Q-_5rb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246576032-2s02a7av4krbbo48cck5n7e0iseehc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
